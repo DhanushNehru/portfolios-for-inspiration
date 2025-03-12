@@ -37,6 +37,7 @@ A collection of portfolios for your inspiration
 ### O  
 
 ### P  
+- [Pragadeesh Nehru](https://pragadeeshn-portfolio.vercel.app/) – A aesthetic and clean developer portfolio.  
 
 ### Q  
 
