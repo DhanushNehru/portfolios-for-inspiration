@@ -70,3 +70,7 @@ You can use Gitpod in the cloud  [![Gitpod Ready-to-Code](https://img.shields.io
 ----
 
 Feel free to update the README.md or raise issues if any to enhance the project
+
+If you liked this repository support it by starring ⭐
+
+Thank You for being here :)
